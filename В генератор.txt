@@ -1,0 +1,1 @@
+python gen_data.py -variant 7  -seed 20070330 -output data.csv
